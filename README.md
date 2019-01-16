@@ -1,2 +1,11 @@
 # Machine-Learning-Algorithms
-Implementation of Machine learning Algorithms with Python
+
+## Algorithms
+<ol>
+  <li>K-means Clustering</li>
+</ol>
+
+## Datasets
+<ol>
+  <li>Wholesale customers Dataset</li>
+</ol>
