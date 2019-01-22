@@ -3,6 +3,7 @@
 ## Algorithms
 <ol>
   <li>K-means Clustering</li>
+  <li>Hierarchical Clustering</li>
 </ol>
 
 ## Datasets
