@@ -4,6 +4,7 @@
 <ol>
   <li>K-means Clustering</li>
   <li>Hierarchical Clustering</li>
+  <li>Linear Regression</li>
 </ol>
 
 ## Datasets
