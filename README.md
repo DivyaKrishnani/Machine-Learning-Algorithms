@@ -7,6 +7,7 @@
   <li>Linear Regression</li>
   <li>Logistic Regression</li>
   <li>KNN</li>
+  <li>Sigmoid Learning</li>
 </ol>
 
 ## Datasets
